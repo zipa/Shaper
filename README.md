@@ -12,3 +12,7 @@ _(to be added)_
 - [ ] Create events for the configuration changes notification.
 - [ ] Allow getting only a partial configuration when changed.
 - [ ] Implement change notification for JSON configuration change.
+
+## Considerations
+- A configuration set will be loaded by querying API.
+- REST API will be exposed on a configurable port.
